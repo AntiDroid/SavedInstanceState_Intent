@@ -1,4 +1,4 @@
-package com.example.talip.helloworld;
+package com.example.talip.SavedInstanceState_Intent;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

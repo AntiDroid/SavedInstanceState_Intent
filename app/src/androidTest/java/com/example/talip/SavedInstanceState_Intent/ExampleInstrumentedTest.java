@@ -1,4 +1,4 @@
-package com.example.talip.helloworld;
+package com.example.talip.SavedInstanceState_Intent;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.talip.helloworld", appContext.getPackageName());
+        assertEquals("com.example.talip.SavedInstanceState_Intent", appContext.getPackageName());
     }
 }

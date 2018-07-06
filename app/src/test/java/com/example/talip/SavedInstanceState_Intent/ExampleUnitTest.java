@@ -1,4 +1,4 @@
-package com.example.talip.helloworld;
+package com.example.talip.SavedInstanceState_Intent;
 
 import org.junit.Test;
 
